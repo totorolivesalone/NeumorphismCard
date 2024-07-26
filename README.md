@@ -1,3 +1,3 @@
 # Neumorphism
 Card made using neumorphism. 
-(live)[https://totorolivesalone.github.io/NeumorphismCard/]
+[live](https://totorolivesalone.github.io/NeumorphismCard/)
